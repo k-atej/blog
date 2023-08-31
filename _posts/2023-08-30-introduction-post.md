@@ -1,0 +1,5 @@
+---
+layout: post
+---
+
+/text here/
