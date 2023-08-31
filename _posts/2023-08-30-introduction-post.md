@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Kate Jackson
 ---
 
 Setting up this blog really wasn't that difficult, but installing Ruby was a whole different beast. Why do Macs come with Ruby if you can't update it? I would love to know who thought of that. 
