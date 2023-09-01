@@ -3,25 +3,29 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/skins/{{ site.minima.skin | default: 'solarized-dark' }}",
   "minima/initialize";
 
 
 body {
   font-size: 20px;
+  color: black;
+  background-color: lavender;
 }
 
-nav {
+body .site-header .site-nav .page-link {
   font-size: 15px;
+  color: black;
 }
 
 .footer-col {
   color: black;
 }
 
-body header .site-title {
+body .site-header .site-title {
   font-weight: 20;
   font-size: 25px;
+  color: black;
 }
 
 img[alt=SCSSLogo] {
@@ -33,4 +37,8 @@ img[alt=SCSSLogo] {
 img[alt=CSSLogo] {
   width: 150px;
   padding: 20px;
+}
+
+body .page-content .post-list .post-link {
+  color: black;
 }
