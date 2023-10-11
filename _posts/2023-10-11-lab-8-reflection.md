@@ -10,3 +10,5 @@ The easiest parts for me were the HTML changes. It was fairly easy for me to und
 The Jekyll framework differed from Razor in that the Jekyll page was static. There was no database attached to any of the sites. I have to manually add any posts that I want to show up on the blog. They are similar in that they provide something for a programmer to work off of, which lowers the effort needed to do basic tasks. 
 
 I would feel fairly confident in making another Razor application, because I know how to troubleshoot it now. I'm not sure that I fully understand what is going on with every part of it, but that's fine with me. I can just build off of it to create something new. 
+
+Repo: https://github.com/k-atej/csci340lab8/tree/main 
