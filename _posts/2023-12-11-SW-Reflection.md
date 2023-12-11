@@ -1,0 +1,14 @@
+---
+layout: post
+author: Kate Jackson
+---
+
+Taking on the ISeeGreen project was a fun journey that has not only broadened my skill set as a programmer but also deepend my understanding of development as a whole. In navigating this project, I learned new skills and honed my ability to work in a team. Deep-diving into plant taxonomy data has taught me a lot about plants and the timeline of this project illustrated how much effort goes into projects like these. 
+
+I think the skills that are most valuable for the ISeeGreen project are communication and problem-solving. It can be very difficult to work on complex projects with a team, and the inherently complicated data required lots of troubleshooting. Through this experience, I definitely gained skills in both communication and problem-solving, as well as experience with a variety of programming languages and norms. I believe that I am a talented project- and time-manager, which was great for this project. My biggest limitation is that I have a hard time with doing things last minute, which can often make group work difficult. 
+
+Dr. Willyard emphasized to us that putting a name to a plant is important in allowing people to "See Green," and my experience with this project makes me feel as though her website will aid in creating change. Creating this website required me to learn a lot about plants and plant taxonomy, and the adaptability of this project can definitely create change in the future. I agree that names have power, particularly in fields as important as botany. It is absolutely necessary to study plants in order to understand the environment and evolution. Further, I learned a lot about working with a client! I have never worked on a project separately from its initial creater, so this was unique.  
+
+I don't believe that any of my fundamental values or beliefs have been challenged by this project. I have a fairly good understanding of my personality and how easy/difficult it can be to work with me. That said, this experience reavealed to me how much work goes into useful projects like ours. It takes a ton of development to put out a project that is usable and detailed. I have experience with long research projects, but even a short-term project like this was full of effort. 
+
+In conclusion, my experience with ISeeGreen was overwhelmingly positive. I was not only able to improve my communication and problem-solving skills, but also broadened my technical skills. I have also gained a greater appreciation for plants and the broader field of botany, and learned about project collaboration. Although I don't feel as though my values were changed by my experience, working on this project deepened my appreciation for seemingly simple websites!
